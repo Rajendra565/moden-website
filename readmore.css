@@ -1,0 +1,105 @@
+img{
+    cursor: pointer;
+}
+
+
+
+
+/* page contaier section */
+.page_container{
+    margin-top: 6%;
+}
+.page_container_center{
+   flex-direction: column;
+   gap: 30px;
+}
+.heading{
+    display: block;
+    background-color: #ebf2fa;
+    font-size: 15px;
+    border-radius: 6px;
+    padding: 5px 10px;
+}
+.subparagraph{
+    max-width: 530px;
+    text-align: center;
+}
+/* video section */
+/* .video_section{
+   margin-top: 60px;
+
+}
+.w_video{
+    width: 100%;
+    
+}
+ iframe{
+   width: 100%;
+   height: 100%;
+
+} */
+
+
+/* big features section */
+.big_features_image{
+    max-width: 479px;
+}
+
+
+/* cta section */
+.cta_section{
+ background-color:#183b56;
+
+}
+.cta_section .h2 {
+    align-items: center;
+    color: #fff;
+    font-size:48px ;
+}
+
+
+
+/* .cta_section .companies_img{
+    margin-bottom: 60px;
+    gap: 20px;
+    background-color: ;
+    
+} */
+
+
+
+
+/* User Experience */
+.user_Experience{
+    padding: 50px;
+    /* gap: 10px; */
+}
+.user_Experience_container{
+    flex-direction: column;
+    padding: 20px;
+
+}
+
+
+.User_experience_text{
+    background-image: url(./assetsreadmore/asset\ 25.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 120px;
+    text-align: center;
+    font-size: 38px;
+    padding: 30px;
+    width: 958px;
+    font-weight: 200;
+}
+.User_experience_user img{
+    width:48px ;
+    
+}
+.User_experience_user_title{
+    margin-bottom: 10px ;
+}
+
+
+
+
